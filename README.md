@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, I'm RIishab Sarayan<br>A Passionate Front End Developer<br>
+Hii, I'm Rishab Sarayan<br>A Passionate Front End Developer<br>
 
 
 ## 🌐 Socials:
