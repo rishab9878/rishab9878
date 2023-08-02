@@ -20,5 +20,3 @@ Hii, I am Rishab Sarayan<br>A Passionate Front End Developer<br>I am Currently l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishab9878&icon=9&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
